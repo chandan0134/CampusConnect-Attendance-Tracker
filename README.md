@@ -18,13 +18,13 @@ To run the application locally, follow these steps:
 - Clone the repo
 
 ```bash
-  git clone https://github.com/chandan0134/plotline_frontend.git
+  git clone https://github.com/chandan0134/Kalvium_Frontend.git
 
 ```
 - Navigate to the project directory:
 
 ```bash
-  cd plotline
+  cd my-project
 ```
 - Start the development server:
 
