@@ -4,7 +4,7 @@
 The Kalvium Students Attendance System leverages device location to provide accurate attendance tracking. Seamlessly identifying student locations, it ensures attendance precision, streamlining educational processes with real-time data.
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/chandan0134/plotline_frontend/b1ec18eed1de07075bc7bc65cdedf58591cf5b1d/plotline.png?token=GHSAT0AAAAAACDVXXHRXONTQMMVTZOFSLX6ZHFVVGQ)
+![App Screenshot](https://github.com/chandan0134/Kalvium_Frontend/blob/master/Screenshot%20(801).png?raw=true)
 ## Features
 
 - Location-Based Attendance: The system utilizes device location to accurately mark student attendance. By cross-referencing real-time location data, it ensures reliable attendance records.
