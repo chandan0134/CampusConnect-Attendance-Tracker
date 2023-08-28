@@ -34,12 +34,12 @@ To run the application locally, follow these steps:
 - Open your browser and go to http://localhost:3000 to view the application.
 
   ## Usage
-  -Simple Check-In Process: Students can easily mark their attendance by opening the Kalvium app, which automatically detects their device's location upon check-in.
+  Simple Check-In Process: Students can easily mark their attendance by opening the Kalvium app, which automatically detects their device's location upon check-in.
 
-  -User-Friendly Interface: The app features an intuitive interface that guides students through the attendance process, ensuring a seamless and hassle-free experience.
+  User-Friendly Interface: The app features an intuitive interface that guides students through the attendance process, ensuring a seamless and hassle-free experience.
 
-  -Efficient Classroom Management: Educators can access real-time attendance data, allowing them to focus on teaching instead of manual attendance taking. This streamlines classroom management and improves overall productivity.
+  Efficient Classroom Management: Educators can access real-time attendance data, allowing them to focus on teaching instead of manual attendance taking. This streamlines classroom management and improves overall productivity.
 
-  -Geofencing Technology: The system employs geofencing to define specific attendance zones. Students can only check in when they are within these predefined areas, preventing fraudulent attendance entries.
+  Geofencing Technology: The system employs geofencing to define specific attendance zones. Students can only check in when they are within these predefined areas, preventing fraudulent attendance entries.
 
-  -Comprehensive Reporting: Administrators and teachers can generate detailed attendance reports, aiding in monitoring student engagement and analyzing attendance trends for informed decision-making.
+  Comprehensive Reporting: Administrators and teachers can generate detailed attendance reports, aiding in monitoring student engagement and analyzing attendance trends for informed decision-making.
