@@ -1,7 +1,7 @@
 
-# Kalvium Student attendance system
+# CampusConnect-Attendance-Tracker
 
-The Kalvium Students Attendance System leverages device location to provide accurate attendance tracking. Seamlessly identifying student locations, it ensures attendance precision, streamlining educational processes with real-time data.
+The CampusConnect-Attendance-Tracker leverages device location to provide accurate attendance tracking. Seamlessly identifying student locations, it ensures attendance precision, streamlining educational processes with real-time data.
 ## Screenshots
 -Login Page
 
